@@ -13,8 +13,9 @@ We conducted experiments under:
 - 1 Nvidia Titan X Maxwell GPU
     
 Datasets:
-    MNIST, CIFAR-10 and CIFAR-100 will be automatically downloaded by running the script.
-    MRNet: In order to download this dataset, register here https://stanfordmlgroup.github.io/competitions/mrnet/.
+MNIST, CIFAR-10 and CIFAR-100 will be automatically downloaded by running the script.
+
+MRNet: In order to download this dataset, register here https://stanfordmlgroup.github.io/competitions/mrnet/.
 
 ## Description of files
 * datasets.py: the code to get data loader for MNIST, CIFAR-10 and CIFAR-100 datasets for a given batch size, training set size and level of label noise.
