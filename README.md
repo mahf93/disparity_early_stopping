@@ -4,13 +4,13 @@ Code for paper "Disparity Between Batches as a Signal for Early Stopping"
 
 ## Requirements
 We conducted experiments under:
-    - python 3.5.2
-    - torch 1.4.0
-    - torchvision 0.5.0
-    - cuda 10.2
-    - jupyter-notebook 6.0.3
-    - ipython 7.9.0
-    - 1 Nvidia Titan X Maxwell GPU
+- python 3.5.2
+- torch 1.4.0
+- torchvision 0.5.0
+- cuda 10.2
+- jupyter-notebook 6.0.3
+- ipython 7.9.0
+- 1 Nvidia Titan X Maxwell GPU
     
 Datasets:
     MNIST, CIFAR-10 and CIFAR-100 will be automatically downloaded by running the script.
