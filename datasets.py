@@ -1,3 +1,4 @@
+# code adapted from https://github.com/pluskid/fitting-random-labels
 from torchvision import datasets, transforms
 import torch
 import numpy as np
