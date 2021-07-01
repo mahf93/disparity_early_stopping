@@ -1,5 +1,7 @@
 # Early Stopping by Gradient Disparity
 
+Code for paper "Disparity Between Batches as a Signal for Early Stopping" 
+
 ## Requirements
 We conducted experiments under:
     python 3.5.2
