@@ -33,6 +33,9 @@ python3 experiments.py --dataset cifar10 --numsamples 12800 --batchsize 128 --co
 The results will be saved in <filename.data>.
 To plot the figures of each experiment run results.ipynb file while reading the <filename.data> file of your choice.
 
+## Access to the paper
+You can find the full version of the paper (including appendices) at https://arxiv.org/pdf/2107.06665.pdf and the published version at https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_1075.pdf.
+
 
 ## Citation
 To cite our work please use:
