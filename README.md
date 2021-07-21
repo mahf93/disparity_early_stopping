@@ -32,3 +32,15 @@ python3 experiments.py --dataset cifar10 --numsamples 12800 --batchsize 128 --co
 
 The results will be saved in <filename.data>.
 To plot the figures of each experiment run results.ipynb file while reading the <filename.data> file of your choice.
+
+
+## Citation
+To cite our work please use:
+```
+@article{forouzesh2021disparity,
+  title={Disparity Between Batches as a Signal for Early Stopping},
+  author={Forouzesh, Mahsa and Thiran, Patrick},
+  journal={arXiv preprint arXiv:2107.06665},
+  year={2021}
+}
+```
