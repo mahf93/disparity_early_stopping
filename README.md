@@ -38,12 +38,23 @@ You can find the full version of the paper (including appendices) at https://arx
 
 
 ## Citation
-To cite our work please use:
+To cite our work please use for the arxiv version:
 ```
 @article{forouzesh2021disparity,
   title={Disparity Between Batches as a Signal for Early Stopping},
   author={Forouzesh, Mahsa and Thiran, Patrick},
   journal={arXiv preprint arXiv:2107.06665},
   year={2021}
+}
+```
+or for the published version:
+```
+@inproceedings{forouzesh2021disparity,
+  title={Disparity between batches as a signal for early stopping},
+  author={Forouzesh, Mahsa and Thiran, Patrick},
+  booktitle={Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13--17, 2021, Proceedings, Part II 21},
+  pages={217--232},
+  year={2021},
+  organization={Springer}
 }
 ```
